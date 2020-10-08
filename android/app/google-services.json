@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "772874016667",
+    "firebase_url": "https://schoolmaps-1f749.firebaseio.com",
+    "project_id": "schoolmaps-1f749",
+    "storage_bucket": "schoolmaps-1f749.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772874016667:android:de3091d056d2e85688733e",
+        "android_client_info": {
+          "package_name": "com.masehi.maps_schoolapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "772874016667-e3i242obj96fuh17ihqaq86grn71t0ns.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.masehi.maps_schoolapp",
+            "certificate_hash": "d82506f3ab3b9974f2ac29de6485f0c07d34db73"
+          }
+        },
+        {
+          "client_id": "772874016667-6o9nfoivjlc2ttaru8rlhm2bqsfadnio.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDvNS7GKYFRvev1ZmOOYIp6gWKi4Xm1EU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "772874016667-6o9nfoivjlc2ttaru8rlhm2bqsfadnio.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
